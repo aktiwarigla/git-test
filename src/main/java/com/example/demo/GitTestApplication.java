@@ -15,7 +15,7 @@ public class GitTestApplication {
 	
 	@GetMapping
 	public String hello() {
-		return "hello";
+		return "hello ";
 	}
 
 }
